@@ -1,0 +1,29 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Project TpFile=
+Filter=
+Create Tagfile=0
+[Files]
+0=uart.c
+1=uart.h
+2=25q128.c
+3=25q128.h
+4=battery_motor.c
+5=battery_motor.h
+6=ble_nus.c
+7=ble_nus.h
+8=I2C.C
+9=I2C.h
+10=main.c
+11=spi_master_config.h
+12=twi_master_config.h
+13=system_timer.c
+14=acc.c
+15=afe.c
+16=lzw_compress.c
